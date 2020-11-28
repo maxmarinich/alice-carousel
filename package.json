@@ -1,6 +1,6 @@
 {
   "name": "alice-carousel",
-  "version": "2.1.0",
+  "version": "0.0.1",
   "description": "Alice Carousel is a content gallery based on pure javascript.",
   "main": "./lib/alice-carousel.js",
   "types": "./lib/alice-carousel.d.ts",
